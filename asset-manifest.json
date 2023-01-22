@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/cheeseburger/static/css/main.1f7fd78e.css",
-    "main.js": "/cheeseburger/static/js/main.89430d51.js",
-    "static/js/787.a5f76e93.chunk.js": "/cheeseburger/static/js/787.a5f76e93.chunk.js",
-    "index.html": "/cheeseburger/index.html",
-    "main.1f7fd78e.css.map": "/cheeseburger/static/css/main.1f7fd78e.css.map",
-    "main.89430d51.js.map": "/cheeseburger/static/js/main.89430d51.js.map",
-    "787.a5f76e93.chunk.js.map": "/cheeseburger/static/js/787.a5f76e93.chunk.js.map"
+    "main.css": "/burgerzbefallin/static/css/main.1f7fd78e.css",
+    "main.js": "/burgerzbefallin/static/js/main.b08fe70c.js",
+    "static/js/787.a5f76e93.chunk.js": "/burgerzbefallin/static/js/787.a5f76e93.chunk.js",
+    "index.html": "/burgerzbefallin/index.html",
+    "main.1f7fd78e.css.map": "/burgerzbefallin/static/css/main.1f7fd78e.css.map",
+    "main.b08fe70c.js.map": "/burgerzbefallin/static/js/main.b08fe70c.js.map",
+    "787.a5f76e93.chunk.js.map": "/burgerzbefallin/static/js/787.a5f76e93.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1f7fd78e.css",
-    "static/js/main.89430d51.js"
+    "static/js/main.b08fe70c.js"
   ]
 }
